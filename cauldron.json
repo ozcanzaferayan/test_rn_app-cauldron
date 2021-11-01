@@ -28,20 +28,7 @@
       "platforms": [
         {
           "name": "ios",
-          "versions": [
-            {
-              "name": "0.0.1",
-              "codePush": {},
-              "container": {
-                "jsApiImpls": [],
-                "miniApps": [],
-                "nativeDeps": []
-              },
-              "isReleased": false,
-              "nativeDeps": [],
-              "yarnLocks": {}
-            }
-          ]
+          "versions": []
         }
       ]
     }
