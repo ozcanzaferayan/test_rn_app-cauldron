@@ -29,12 +29,23 @@
               "codePush": {},
               "container": {
                 "jsApiImpls": [],
-                "miniApps": [],
-                "nativeDeps": []
+                "miniApps": [
+                  "https://github.com/ozcanzaferayan/test_rn_app.git#v0.0.1"
+                ],
+                "nativeDeps": [
+                  "ernnavigation-api-impl-native@1.6.10",
+                  "ernnavigation-api@1.3.0",
+                  "react-native-electrode-bridge@1.5.27",
+                  "react-native@0.64.0"
+                ],
+                "ernVersion": "0.48.4"
               },
               "isReleased": false,
               "nativeDeps": [],
-              "yarnLocks": {}
+              "yarnLocks": {
+                "container": "6f8b4d48-080b-47d8-8ac8-ee3bfdefa274"
+              },
+              "containerVersion": "1.0.0"
             }
           ]
         }
