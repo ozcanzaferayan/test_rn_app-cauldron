@@ -2,28 +2,6 @@
   "name": "Cauldron",
   "nativeApps": [
     {
-      "name": "myMiniApp",
-      "platforms": [
-        {
-          "name": "ios",
-          "versions": [
-            {
-              "name": "0.0.1",
-              "codePush": {},
-              "container": {
-                "jsApiImpls": [],
-                "miniApps": [],
-                "nativeDeps": []
-              },
-              "isReleased": false,
-              "nativeDeps": [],
-              "yarnLocks": {}
-            }
-          ]
-        }
-      ]
-    },
-    {
       "name": "MyNativeApp",
       "platforms": [
         {
@@ -59,15 +37,6 @@
               "yarnLocks": {}
             }
           ]
-        }
-      ]
-    },
-    {
-      "name": "testApp",
-      "platforms": [
-        {
-          "name": "ios",
-          "versions": []
         }
       ]
     }
