@@ -5,30 +5,13 @@
       "name": "MyNativeApp",
       "platforms": [
         {
-          "name": "android",
+          "name": "ios",
           "versions": [
             {
               "name": "0.0.1",
               "codePush": {
                 "appName": "MyNativeAppIos"
               },
-              "container": {
-                "jsApiImpls": [],
-                "miniApps": [],
-                "nativeDeps": []
-              },
-              "isReleased": false,
-              "nativeDeps": [],
-              "yarnLocks": {}
-            }
-          ]
-        },
-        {
-          "name": "ios",
-          "versions": [
-            {
-              "name": "0.0.1",
-              "codePush": {},
               "container": {
                 "jsApiImpls": [],
                 "miniApps": [
