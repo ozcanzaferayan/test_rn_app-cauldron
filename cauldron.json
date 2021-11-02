@@ -10,7 +10,25 @@
             {
               "name": "0.0.1",
               "codePush": {
-                "appName": "ozcanzaferayan/MyNativeAppIos"
+                "appName": "ozcanzaferayan/MyNativeAppIos",
+                "Dev": [
+                  {
+                    "metadata": {
+                      "appVersion": "0.0.1",
+                      "deploymentName": "Dev",
+                      "isMandatory": false,
+                      "label": "v1",
+                      "releaseMethod": "Upload",
+                      "releasedBy": "ozcanzaferayan@gmail.com",
+                      "rollout": 100,
+                      "size": 214532
+                    },
+                    "miniapps": [
+                      "https://github.com/ozcanzaferayan/test_rn_app.git#v0.0.1"
+                    ],
+                    "jsApiImpls": []
+                  }
+                ]
               },
               "container": {
                 "jsApiImpls": [],
@@ -29,7 +47,8 @@
               "isReleased": false,
               "nativeDeps": [],
               "yarnLocks": {
-                "container": "6f8b4d48-080b-47d8-8ac8-ee3bfdefa274"
+                "container": "6f8b4d48-080b-47d8-8ac8-ee3bfdefa274",
+                "Dev": "569cc651-b2f0-4372-ac91-c9a2b31e3282"
               },
               "containerVersion": "1.0.0"
             }
