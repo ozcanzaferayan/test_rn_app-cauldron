@@ -9,7 +9,9 @@
           "versions": [
             {
               "name": "0.0.1",
-              "codePush": {},
+              "codePush": {
+                "appName": "ozcanzaferayan/MyNativeAppIos"
+              },
               "container": {
                 "jsApiImpls": [],
                 "miniApps": [],
