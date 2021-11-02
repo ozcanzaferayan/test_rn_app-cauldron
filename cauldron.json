@@ -33,7 +33,7 @@
               "container": {
                 "jsApiImpls": [],
                 "miniApps": [
-                  "https://github.com/ozcanzaferayan/test_rn_app.git#v0.0.1"
+                  "https://github.com/ozcanzaferayan/test_rn_app.git#v0.0.3"
                 ],
                 "nativeDeps": [
                   "react-native-code-push@6.2.0",
@@ -50,7 +50,7 @@
                 "container": "6f8b4d48-080b-47d8-8ac8-ee3bfdefa274",
                 "Dev": "569cc651-b2f0-4372-ac91-c9a2b31e3282"
               },
-              "containerVersion": "1.0.0"
+              "containerVersion": "1.0.1"
             }
           ]
         }
