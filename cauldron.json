@@ -10,7 +10,7 @@
             {
               "name": "0.0.1",
               "codePush": {
-                "appName": "MyNativeAppIos"
+                "appName": "ozcanzaferayan/MyNativeAppIos"
               },
               "container": {
                 "jsApiImpls": [],
