@@ -13,7 +13,7 @@
               "container": {
                 "jsApiImpls": [],
                 "miniApps": [
-                  "https://github.com/ozcanzaferayan/test-miniapp.git#0.0.2"
+                  "https://github.com/ozcanzaferayan/test-miniapp.git#0.0.3"
                 ],
                 "nativeDeps": [
                   "ernnavigation-api-impl-native@1.6.10",
