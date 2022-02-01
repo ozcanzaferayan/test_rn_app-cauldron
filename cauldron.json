@@ -13,12 +13,14 @@
               "container": {
                 "jsApiImpls": [],
                 "miniApps": [
-                  "https://github.com/ozcanzaferayan/test-miniapp.git#0.0.1"
+                  "https://github.com/ozcanzaferayan/test-miniapp.git#0.0.2"
                 ],
                 "nativeDeps": [
                   "ernnavigation-api-impl-native@1.6.10",
                   "ernnavigation-api@1.3.0",
                   "react-native-electrode-bridge@1.5.27",
+                  "react-native-fbads@7.0.5",
+                  "react-native-fbsdk@1.1.2",
                   "react-native@0.64.0"
                 ],
                 "ernVersion": "1000.0.0"
