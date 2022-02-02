@@ -4251,9 +4251,9 @@ temp@^0.8.1:
   dependencies:
     rimraf "~2.6.2"
 
-"test-miniapp@https://github.com/ozcanzaferayan/test-miniapp.git#0.0.6":
-  version "0.0.6"
-  resolved "https://github.com/ozcanzaferayan/test-miniapp.git#e15a919880fb495250f9175649337f4c82fb03a0"
+"test-miniapp@https://github.com/ozcanzaferayan/test-miniapp.git#0.0.8":
+  version "0.0.7"
+  resolved "https://github.com/ozcanzaferayan/test-miniapp.git#6a0458d6c57a875b0e65836f5f2c959357c424e5"
   dependencies:
     ern-navigation "1.2.4"
     react "17.0.1"
